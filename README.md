@@ -1,1 +1,25 @@
 # arianapalma.github.io
+<!DOCTYPE html>
+<html>
+<head>
+<title> Ariana's Page </title>
+<style>
+body {background:#f2dae5;}
+</style>
+</head>
+<body>
+<h1> Types of Ipsum </h1>
+<h2> Cupcake Ipsum </h2>
+<p> 
+<strong>Cupcake ipsum dolor sit amet</strong>. Cupcake soufflé brownie jelly toffee cheesecake gummies. Caramels icing gummies brownie cheesecake cotton candy danish marshmallow dessert. Sweet cookie marzipan soufflé chocolate. Sugar plum lemon drops toffee icing marzipan oat cake pastry. Gummies cotton candy bonbon pastry jelly sugar plum gingerbread. Cookie marzipan sweet marzipan cake jujubes candy canes.
+</p>
+<h2> Pirate Ipsum </h2>
+<p>
+<strong>Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm</strong>. Pinnace holystone mizzenmast quarter crow's nest nipperkin grog yardarm hempen halter furl. Swab barque interloper chantey doubloon starboard grog black jack gangway rutters.
+</p>
+<h2> Bacon Ipsum </h2>
+<p>
+<strong>Bacon ipsum dolor amet beef ribs meatloaf ham, cow andouille boudin shoulder turducken ground round jowl</strong>. Landjaeger mortadella biltong tongue burgdoggen. Sirloin jowl pancetta kielbasa landjaeger. Short loin leberkas tri-tip meatball. Turkey hamburger filet mignon, chicken shankle kevin meatball short loin tongue flank.</p>
+<img src="https://cupcakeipsum.com/images/happy_muffin.png"
+</body>
+</html>
